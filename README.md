@@ -1,1 +1,2 @@
-# https-github.com-Ravikiran-dev1-R25EH001
+# https-github.com-Ravikiran-dev1-R25EH001Hi,
+I’m Ravikiran, an engineering student interested in programming, software development, and emerging technologies. I am currently developing my skills in Python, C, data structures, Git, and GitHub while working on academic and personal projects. This repository contains my learning progress, practice programs, projects, and experiments as I continue to improve my technical and problem-solving skills.
